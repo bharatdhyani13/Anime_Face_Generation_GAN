@@ -1,7 +1,17 @@
 # Anime_Face_Generation_GAN
 
-I managed to be lucky enough to find a pre-processed (faces-cropped) dataset from the following sites:
+For Anime face generation we would require a lot of anime faces on which to train the model on.
+I founda a pre-processed (faces-cropped) dataset from the following sites:
 https://www.kaggle.com/aadilmalik94/animecharacterfaces
+Take a look at the dataset:
+This is how Genarator Architechture looks like:
+![](https://github.com/bharatdhyani13/Anime_Face_Generation_GAN/blob/master/images/2.PNG)
+
+This is how Genarator Architechture looks like:
+![](https://github.com/bharatdhyani13/Anime_Face_Generation_GAN/blob/master/images/1.PNG)
+
+This is how Genarator Architechture looks like:
+![](https://github.com/bharatdhyani13/Anime_Face_Generation_GAN/blob/master/images/3.PNG)
 
 
 Full Training as a GIF: (images sampled every 100 step):
